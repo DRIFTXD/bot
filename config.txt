@@ -1,5 +1,6 @@
 owner=138005466235011082
 prefix=$
+client.user.setGame(DRIFTXD | !play,"http://twitch.tv/driftxd")
 game=DRIFTXD | !play
 stayinchannel=true
 songinstatus=false
