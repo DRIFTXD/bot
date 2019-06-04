@@ -1,5 +1,5 @@
 owner=138005466235011082
-prefix=!
+prefix=$
 game=DRIFTXD | !play
 stayinchannel=true
 songinstatus=false
